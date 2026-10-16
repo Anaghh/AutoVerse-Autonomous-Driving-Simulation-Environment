@@ -70,12 +70,6 @@ Ideas, design discussions, and implementation proposals are welcome through [Git
 
 For a contribution, describe the behavior you want to add and how it supports the roadmap. Keep changes focused, and include instructions for checking any new functionality.
 
-## Inspiration
-
-[Bretto's Evolution](https://github.com/Bretto/evolution) is a reference for this project's direction. It demonstrates neural network driving with evolutionary learning in a Three.js environment.
-
-AutoVerse aims to explore that learning idea within a broader virtual world of autonomous cars. Implementation choices for AutoVerse are still open.
-
 ## License
 
 A license has not been selected yet.
